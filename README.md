@@ -1,1 +1,3 @@
-# IETI-CSSChallenge
+# IETI CSS Challenge
+
+![](challenge.png)
